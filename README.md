@@ -40,7 +40,7 @@ That’s it.
 ## What’s included in this repo
 
 - Excel template (`AR_Dashboard_Template.xlsx`)  
-- Setup guide (`Setup Guide.pdf`)  
+- Quick Start Guide (`Quick Start Guide.docx`)  
 - Example screenshots  
 
 ---
